@@ -14,13 +14,12 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project
-Here are 3 quick and painless ways to contribute to this project:
+Complete these two tasks to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
+* Add a algorithm of choice in a language of choice
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Complete these tasks, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -60,7 +59,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a algorithm of choice in a language of chouce
+### 2. Add a algorithm of choice in a language of choice
 Add a `username-algorithm.xx` file to the folder of your chosen programming language. e.g., `soer7022-merge_sort.py` or `soer7022-dfs.java`
 
 These algorithms can be as advanced or as simple as you would like, even just an "Hello, World!" algorithm:
