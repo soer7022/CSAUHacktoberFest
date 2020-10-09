@@ -17,7 +17,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Complete these two tasks to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Add a algorithm of choice in a language of choice
+* Add an algorithm of choice in a language of choice
 
 Complete these tasks, make a pull request for your work and wait for it to be merged!
 
@@ -53,13 +53,13 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
+#### Name: YOUR NAME
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a algorithm of choice in a language of choice
+### 2. Add an algorithm of choice in a language of choice
 Add a `username-algorithm.xx` file to the folder of your chosen programming language. e.g., `soer7022-merge_sort.py` or `soer7022-dfs.java`
 
 These algorithms can be as advanced or as simple as you would like, even just an "Hello, World!" algorithm:
