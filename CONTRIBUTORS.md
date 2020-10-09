@@ -2,3 +2,8 @@
  - Place: Aarhus, Denmark
  - Bio: Master student at Computer Science Aarhus University, and software developer at LEGO
  - GitHub: [soer7022](https://github.com/soer7022)
+
+#### Name: Simon Bec
+- Place: Aarhus, Denmark
+- Bio: Bachelor student at Computer Science Aarhus University
+- GitHub: [DenSimbe](https://github.com/DenSimbe)
