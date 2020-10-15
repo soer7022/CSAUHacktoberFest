@@ -1,3 +1,7 @@
+// LANGUAGE: Go
+// AUTHOR: M. Ezra Rizkiatama P.
+// GITHUB: https://github.com/erizkiatama
+
 package main
 
 import (
