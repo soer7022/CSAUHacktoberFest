@@ -14,3 +14,7 @@
 - Place: Aarhus, Denmark
 - Bio: Bachelor student at Computer Science Aarhus University
 - GitHub: [DenSimbe](https://github.com/DenSimbe)
+#### Name: Muhammad Ezra Rizkiatama Putra
+ - Place: Depok, Indonesia
+ - Bio: Bachelor student at Faculty of Computer Science University of Indonesia
+ - GitHub: [erizkiatama](https://github.com/erizkiatama)
