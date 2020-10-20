@@ -14,12 +14,10 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project
-Complete these two tasks to contribute to this project:
-
-* Add your name to the `CONTRIBUTORS.md` file
+Complete this simple task to contribute to this project:
 * Add an algorithm of choice in a language of choice
 
-Complete these tasks, make a pull request for your work and wait for it to be merged!
+Complete this task, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -48,18 +46,9 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Complete these two tasks
-### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+## Complete this task
 
-```markdown
-#### Name: YOUR NAME
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-```
-
-### 2. Add an algorithm of choice in a language of choice
+### Add an algorithm of choice in a language of choice
 Add a `username-algorithm.xx` file to the folder of your chosen programming language. e.g., `soer7022-merge_sort.py` or `soer7022-dfs.java`
 
 These algorithms can be as advanced or as simple as you would like, even just an "Hello, World!" algorithm:
