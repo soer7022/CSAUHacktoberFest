@@ -58,8 +58,10 @@ These algorithms can be as advanced or as simple as you would like, even just an
 // AUTHOR: Søren Eriksen
 // GITHUB: https://github.com/soer7022
 
-public static void main() {
-    System.out.println("Hello, World!");
+class HelloWorld {
+    public static void main() {
+        System.out.println("Hello, World!");
+    }
 }
 ```
 
