@@ -2,6 +2,9 @@
 // AUTHOR: M. Ezra Rizkiatama P.
 // GITHUB: https://github.com/erizkiatama
 
+// MODIFICATION; A. B. Clausen
+// GITHUB: https://github.com/anbclausen
+
 package main
 
 import (
@@ -114,41 +117,10 @@ func main() {
 }
 
 func getPercent(percent float64) float64 {
-	var result float64
+	var result float64 = math.Ceil(percent/10) * 10
 
-	switch {
-	case percent <= 10.0:
-		result = 10.0
-		break
-	case percent <= 20.0:
-		result = 20.0
-		break
-	case percent <= 30.0:
-		result = 30.0
-		break
-	case percent <= 40.0:
-		result = 40.0
-		break
-	case percent <= 50.0:
-		result = 50.0
-		break
-	case percent <= 60.0:
-		result = 60.0
-		break
-	case percent <= 70.0:
-		result = 70.0
-		break
-	case percent <= 80.0:
-		result = 80.0
-		break
-	case percent <= 90.0:
-		result = 90.0
-		break
-	case percent <= 100.0:
-		result = 100.0
-		break
-	default:
-		result = 100.0
+	if result > 100 {
+		result = 100
 	}
 
 	return result
