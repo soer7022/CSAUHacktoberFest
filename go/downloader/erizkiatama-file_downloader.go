@@ -117,11 +117,8 @@ func main() {
 }
 
 func getPercent(percent float64) float64 {
-	var result float64 = math.Ceil(percent/10) * 10
-
-	if result > 100 {
-		result = 100
+	if percent > 100 {
+		return 100
 	}
-
-	return result
+	return math.Ceil(percent/10) * 10
 }
