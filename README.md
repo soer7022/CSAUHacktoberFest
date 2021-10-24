@@ -59,7 +59,7 @@ These algorithms can be as advanced or as simple as you would like, even just an
 // GITHUB: https://github.com/soer7022
 
 class HelloWorld {
-    public static void main() {
+    public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
